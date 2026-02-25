@@ -31,7 +31,7 @@ Automation    → N8N, Power Automate, CI/CD
 | [livekit-voice-agent](https://github.com/buzz39/livekit-voice-agent) | Production AI voice agents for real phone calls (inbound + outbound) |
 | [n8n-production-workflows](https://github.com/buzz39/n8n-production-workflows) | Battle-tested N8N workflows for AI content automation |
 | [EmailWarmup.online](https://emailwarmup.online) | Email deliverability warmup tool (SaaS) |
-| [LeadScraperPro](https://leadscraperpro.com) | Google Maps lead scraper (SaaS) |
+| [LeadScraperPro](https://www.leadscrapperpro.com) | Google Maps lead scraper (SaaS) |
 
 ## 🏢 Career
 
