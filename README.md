@@ -48,10 +48,6 @@ Tech Mahindra    → Software Engineer                    (2011–2013)
 - Google Generative AI Leader
 - Advanced Kubernetes
 
-## 📊 GitHub Stats
-
-![Gagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=buzz39&show_icons=true&theme=tokyonight&hide_border=true)
-
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-15K+_followers-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaganthakur)
